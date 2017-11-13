@@ -1,6 +1,7 @@
 # VoIP.ms SMS #
 
 [![Build Status](https://travis-ci.org/michaelkourlas/voipms-sms-client.svg?branch=master)](https://travis-ci.org/michaelkourlas/voipms-sms-client)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcybik%2Fvoipms-sms-client.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcybik%2Fvoipms-sms-client?ref=badge_shield)
 
 ## Overview ##
 
@@ -47,3 +48,6 @@ of the GitHub repository.
 
 VoIP.ms SMS is licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0). 
 Please see the LICENSE.md file for more information.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcybik%2Fvoipms-sms-client.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcybik%2Fvoipms-sms-client?ref=badge_large)
